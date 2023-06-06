@@ -6,6 +6,9 @@
 /out-tsc
 /bazel-out
 
+# Heavy files
+/src/templates
+
 # Node
 /node_modules
 npm-debug.log
